@@ -2425,7 +2425,8 @@
               "06 SAINT SEIYA GOLD": "https://github.com/injctr/large/raw/main/Chou/Libra%20Shiryu/Chou%20Libra%20Shiryu%20-%20Default.zip",
               "07 CHAMPION": "https://github.com/injctr/large/raw/main/Chou/Champion/Chou%20Champion%20-%20Default.zip",
               "08 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Chou/Street%20Fighter%202/Chou%20Street%20Fighter%202%20-%20Default.zip",
-              "09 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Chou/Street%20Fighter%201/Chou%20Street%20Fighter%201%20-%20Default.zip"
+              "09 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Chou/Street%20Fighter%201/Chou%20Street%20Fighter%201%20-%20Default.zip",
+              "10 Michael Jackson": "https://raw.githubusercontent.com/tt5746624-jpg/Skins/main/MichaelJackson.zip"
             }
           },
           "02 BASIC": {
@@ -2622,6 +2623,10 @@
           "07 CHAMPION": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero102612-icon.png/revision/latest?cb=20230805044014",
             "type2": "Champion"
+          },
+          "10 Michael Jackson": {
+            "img2": "https://i.ibb.co/hJccHs6c/ce0f3a9a3eea.jpg",
+            "type2": "Michael Jackson"
           },
           "08 STREET FIGHTER 2": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20CHOU%2099.png",
