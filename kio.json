@@ -2426,7 +2426,8 @@
               "07 CHAMPION": "https://github.com/injctr/large/raw/main/Chou/Champion/Chou%20Champion%20-%20Default.zip",
               "08 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Chou/Street%20Fighter%202/Chou%20Street%20Fighter%202%20-%20Default.zip",
               "09 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Chou/Street%20Fighter%201/Chou%20Street%20Fighter%201%20-%20Default.zip",
-              "10 Michael Jackson": "https://raw.githubusercontent.com/tt5746624-jpg/Skins/main/MichaelJackson.zip"
+              "10 Michael Jackson": "https://raw.githubusercontent.com/tt5746624-jpg/Skins/main/MichaelJackson.zip",
+              "11 Super Mario": "https://raw.githubusercontent.com/tt5746624-jpg/Skins/main/Mario.zip"
             }
           },
           "02 BASIC": {
@@ -2627,6 +2628,10 @@
           "10 Michael Jackson": {
             "img2": "https://i.ibb.co/hJccHs6c/ce0f3a9a3eea.jpg",
             "type2": "Michael Jackson"
+          },
+          "11 Super Mario": {
+            "img2": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600001.jpg",
+            "type2": "Super Mario"
           },
           "08 STREET FIGHTER 2": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20CHOU%2099.png",
