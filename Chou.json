@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "chou",
+    "name": "Chou",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_011409dfe1a2cf4cf5f879ea07fb3a8e.jpg",
+    "role": "Fighter",
+    "lane": "EXP, Roam",
+    "title": "Kung Fu Boy",
+    "description": "Chou is not a fighter in the traditional sense. He is a delivery service whose entire kit exists to grab one person and hand them to his team, dead. He works when the enemy has a specific target worth catching, and disappears when they do not.",
+    "difficulty": "Medium",
+    "specialty": "Chase, Control",
+    "durability": "50",
+    "offense": "30",
+    "control": "80",
+    "difficulty_score": "60",
+    "tier": "D",
+    "win_rate": "46.12",
+    "pick_rate": "1.09",
+    "ban_rate": "3.34",
+    "win_rate_delta": "-0.31",
+    "skills": "[{\"position\": \"Passive\", \"name\": \"Only Fast\", \"icon\": \"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_aca76a3a3dda44b6a0c3a72ff9bbcb94.png\", \"type\": \"Passive\", \"description\": \"After traveling 10 units, Chou deals 180% damage on his next Basic Attack (cannot Crit) and briefly slows the target by 80%.\"}, {\"position\": \"Skill 1\", \"name\": \"Jeet Kune Do\", \"icon\": \"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_70b2990486b562415dac32dac01bdb16.png\", \"type\": \"Skill 1\", \"description\": \"Chou strikes in the target direction, dealing 180( +70% Total Physical Attack) (Physical Damage) to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne. Hitting an enemy hero with the 3rd cast resets the cooldown of (Shunpo).\"}, {\"position\": \"Skill 2\", \"name\": \"Shunpo\", \"icon\": \"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_d784b75324318b23edb29b1fdd06bea0.png\", \"type\": \"Skill 2\", \"description\": \"Chou dashes in the target direction, gaining Control Immunity during the dash. At the end of the dash, he gains 15 Physical Penetration and a 200( +200% Extra Physical Attack) shield for 2s.\"}, {\"position\": \"Ultimate\", \"name\": \"The Way of Dragon\", \"icon\": \"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_05083715344213a996ab3ebf04381e93.png\", \"type\": \"Ultimate\", \"description\": \"Chou strikes the target enemy hero with a roundhouse kick, dealing 400( +200% Extra Physical Attack) (Physical Damage) and knocking them back. (Use Again): Chou jumps to the target and launches a flurry of blows in mid-air, dealing at least 400( +200% Extra Physical Attack) (Physical Damage).\"}]"
+  }
+]
