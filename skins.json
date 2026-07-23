@@ -5999,5 +5999,11 @@
     "skin_name": "Rimura",
     "image": "https://i.ibb.co/v4TVjc3Q/a050250ae351.jpg",
     "script": "https://github.com/tt5746624-jpg/Skins/raw/refs/heads/main/rimura.zip"
+  },
+  {
+    "name": "Argus",
+    "skin_name": "Raiden Maru",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0WuhxFXLHyofKEb6_BJBRKKtGg1b0Lp67scXX2HcH1egWrIUuLGm5qVeo&s=10",
+    "script": "https://github.com/tt5746624-jpg/New-Skins/raw/refs/heads/main/RaidenMaru-NoSkin.zip"
   }
 ]
