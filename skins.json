@@ -6005,5 +6005,11 @@
     "skin_name": "Raiden Maru",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0WuhxFXLHyofKEb6_BJBRKKtGg1b0Lp67scXX2HcH1egWrIUuLGm5qVeo&s=10",
     "script": "https://github.com/tt5746624-jpg/New-Skins/raw/refs/heads/main/RaidenMaru-NoSkin.zip"
+  },
+  {
+    "name": "Sun",
+    "skin_name": "Celestial Rebel",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGdzJalRRR06YXQJOgQR-LRFcbg3zYQIL-yX8gMq8OdcEh-nFfy6lX34&s=10",
+    "script": "https://www.dropbox.com/scl/fi/ls5woo9z9h4lj8dalzh42/CelestialRebel.zip?rlkey=3b8qek2lfg6vubhv3p1n0kwho&st=zup8uvzd&dl=1"
   }
 ]
