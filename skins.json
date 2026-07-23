@@ -4584,8 +4584,7 @@
     "name": "Chou",
     "skin_name": "Iori Yagami",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cb=20220525164854",
-    "script": "https://cdn.jsdelivr.net/gh/Mexi23/April_2026@main/chou_kof.zip",
-    "tag": "King of Fighters"
+    "script": "https://github.com/tt5746624-jpg/New-Skins/raw/refs/heads/main/Chou_kof.zip"
   },
   {
     "name": "Chou",
