@@ -6010,5 +6010,11 @@
     "skin_name": "Celestial Rebel",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGdzJalRRR06YXQJOgQR-LRFcbg3zYQIL-yX8gMq8OdcEh-nFfy6lX34&s=10",
     "script": "https://www.dropbox.com/scl/fi/ls5woo9z9h4lj8dalzh42/CelestialRebel.zip?rlkey=3b8qek2lfg6vubhv3p1n0kwho&st=zup8uvzd&dl=1"
+  },
+  {
+    "name": "Selena",
+    "skin_name": "Silverbolt Raiko",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkq0IbRefHDUJj3eJaFCYVtIAZ0j_Av5En4C23WkJ1GjkweIu6Bl1qHYY&s=10",
+    "script": "https://github.com/tt5746624-jpg/friendly-system/releases/download/v1.0/silver.zip"
   }
 ]
