@@ -7,7 +7,7 @@
       "plan": "lifetime",
       "plan_expires": "2126-09-26T04:06:56.019222+00:00",
       "joined": "2026-10-20T04:06:33.337336+00:00",
-      "last_seen": "2026-11-05T09:43:27.246643+00:00",
+      "last_seen": "2026-11-05T11:28:48.633755+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 26,
-        "logins": 250
+        "logins": 252
       },
       "last_expiry_warn": -1
     },
@@ -85,7 +85,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-26T09:43:18.899707+00:00",
-      "last_seen": "2026-11-05T04:18:36.766892+00:00",
+      "last_seen": "2026-11-05T11:28:18.355164+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -99,8 +99,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 1,
-        "logins": 22
+        "bots_uploaded": 3,
+        "logins": 31
       }
     }
   },
@@ -269,31 +269,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "db3e4db1b95ef1e2": {
-      "_id": "db3e4db1b95ef1e2",
-      "owner": 6265842075,
-      "name": "hosting",
-      "dir": "/app/sandbox/6265842075_db3e4db1b95ef1e2",
-      "created": "2026-10-28T01:25:05.606752+00:00",
-      "enc_files": [
-        {
-          "key_id": "FiNrBkJy68Xp34R7Tvy6cQ",
-          "enc_path": "/app/storage/encfiles/6265842075/1793150706_hosting_py.enc",
-          "filename": "hosting.py",
-          "rel_path": "hosting.py"
-        }
-      ],
-      "env": {},
-      "status": "stopped",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "approved",
-      "approval_reason": "",
-      "last_started": "2026-11-05T04:10:47.716790+00:00",
-      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/opt/venv/lib/python3.11/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/venv/lib/python3.11/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
-      "last_exit_code": -15,
-      "last_exit_at": "2026-11-05T04:18:37.618233+00:00"
-    },
     "9736eaec7c18b5fe": {
       "_id": "9736eaec7c18b5fe",
       "owner": 6912974998,
@@ -372,6 +347,54 @@
       "approval_status": "approved",
       "approval_reason": "",
       "last_started": "2026-11-05T04:08:43.135557+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "cbf15b9361dff84c": {
+      "_id": "cbf15b9361dff84c",
+      "owner": 6265842075,
+      "name": "Premium_Hosting_source",
+      "dir": "/app/sandbox/6265842075_cbf15b9361dff84c",
+      "created": "2026-11-05T11:26:46.667776+00:00",
+      "enc_files": [
+        {
+          "key_id": "G54gBB5_MXtaPRlca_XhuQ",
+          "enc_path": "/app/storage/encfiles/6265842075/1793878007_Premium_Hosting_source_py.enc",
+          "filename": "Premium_Hosting_source.py",
+          "rel_path": "Premium_Hosting_source.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-05T11:27:02.036464+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "6bdc19eec2464789": {
+      "_id": "6bdc19eec2464789",
+      "owner": 6265842075,
+      "name": "5_6230865702354427838",
+      "dir": "/app/sandbox/6265842075_6bdc19eec2464789",
+      "created": "2026-11-05T11:28:19.212984+00:00",
+      "enc_files": [
+        {
+          "key_id": "zFQLJEQwIwqRojM4D-qANg",
+          "enc_path": "/app/storage/encfiles/6265842075/1793878099_5_6230865702354427838_py.enc",
+          "filename": "5_6230865702354427838.py",
+          "rel_path": "5_6230865702354427838.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-05T11:28:49.256210+00:00",
       "last_error": "",
       "last_exit_code": null
     }
@@ -672,6 +695,24 @@
       "uid": 6912974998,
       "action": "bot_delall",
       "detail": "bot=c885567c31a236f5"
+    },
+    {
+      "ts": "2026-11-05T11:27:01.698704+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=cbf15b9361dff84c"
+    },
+    {
+      "ts": "2026-11-05T11:28:10.813842+00:00",
+      "uid": 6265842075,
+      "action": "bot_delete",
+      "detail": "bot=db3e4db1b95ef1e2"
+    },
+    {
+      "ts": "2026-11-05T11:28:48.639331+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=6bdc19eec2464789"
     }
   ],
   "coupons": {},
@@ -951,6 +992,22 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type '.env' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-05T11:26:47.046761+00:00",
+      "uid": "6265842075",
+      "filename": "Premium_Hosting_source.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-05T11:28:19.571777+00:00",
+      "uid": "6265842075",
+      "filename": "5_6230865702354427838.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
