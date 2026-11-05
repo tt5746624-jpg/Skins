@@ -1,0 +1,935 @@
+{
+  "users": {
+    "6912974998": {
+      "_id": 6912974998,
+      "name": "𝗫𝗼𝗻𝗶",
+      "username": "xoni_l",
+      "plan": "lifetime",
+      "plan_expires": "2126-09-26T04:06:56.019222+00:00",
+      "joined": "2026-10-20T04:06:33.337336+00:00",
+      "last_seen": "2026-11-05T04:11:02.608990+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": false,
+      "verified_at": null,
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 25,
+        "logins": 242
+      },
+      "last_expiry_warn": -1
+    },
+    "5727941919": {
+      "_id": 5727941919,
+      "name": "特雷姆齐 - 开发者",
+      "username": "Unii_dvz",
+      "plan": "lifetime",
+      "plan_expires": "2126-10-03T17:25:16.430284+00:00",
+      "joined": "2026-10-25T13:20:06.898000+00:00",
+      "last_seen": "2026-10-27T17:26:27.859811+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-27T17:24:10.605337+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 8
+      },
+      "last_expiry_warn": -1
+    },
+    "7864020307": {
+      "_id": 7864020307,
+      "name": "𝐒𝐩𝐢𝐝𝐞𝐫-𝐌𝐚𝐧 ™",
+      "username": "realloving2981",
+      "plan": "lifetime",
+      "plan_expires": "2126-10-04T06:41:45.626483+00:00",
+      "joined": "2026-10-25T13:26:32.807188+00:00",
+      "last_seen": "2026-10-30T12:51:35.543382+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-28T06:38:52.319873+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 5,
+        "logins": 54
+      },
+      "last_expiry_warn": -1
+    },
+    "6265842075": {
+      "_id": 6265842075,
+      "name": "KO SAI MCM(佳明)",
+      "username": "Kosaich1",
+      "plan": "free",
+      "plan_expires": null,
+      "joined": "2026-10-26T09:43:18.899707+00:00",
+      "last_seen": "2026-11-05T04:10:46.062291+00:00",
+      "banned": false,
+      "ban_reason": "",
+      "wallet": 0,
+      "kyc": false,
+      "verified": true,
+      "verified_at": "2026-10-28T01:24:40.186901+00:00",
+      "ref_by": null,
+      "ref_count": 0,
+      "ref_credit": 0,
+      "trial_used": false,
+      "bot_slots_bonus": 0,
+      "stats": {
+        "commands": 0,
+        "bots_uploaded": 1,
+        "logins": 21
+      }
+    }
+  },
+  "bots": {
+    "274a42cf65315000": {
+      "_id": "274a42cf65315000",
+      "owner": 6912974998,
+      "name": "yawai",
+      "dir": "/app/sandbox/6912974998_274a42cf65315000",
+      "created": "2026-10-20T07:19:05.765279+00:00",
+      "enc_files": [
+        {
+          "key_id": "damCqk-9AjgQp6TIV4CF0Q",
+          "enc_path": "/app/storage/encfiles/6912974998/1792480746_bot_py.enc",
+          "filename": "bot.py",
+          "rel_path": "bot.py"
+        },
+        {
+          "key_id": "R2eR6tRVR_pLIVNxHYVrgw",
+          "enc_path": "/app/storage/encfiles/6912974998/1792480746_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        },
+        {
+          "key_id": "7QsAJQ9uTJGtcURF9d-X-g",
+          "enc_path": "/app/storage/encfiles/6912974998/1792480746_yawai_support_db.enc",
+          "filename": "yawai_support.db",
+          "rel_path": "yawai_support.db"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'requirements.txt' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-11-05T04:08:30.583609+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "9e1b8b2d131b4cd5": {
+      "_id": "9e1b8b2d131b4cd5",
+      "owner": 6912974998,
+      "name": "boost",
+      "dir": "/app/sandbox/6912974998_9e1b8b2d131b4cd5",
+      "created": "2026-10-24T17:47:21.215019+00:00",
+      "enc_files": [
+        {
+          "key_id": "Cj1z-HzZepCoCO_Rk8lAtw",
+          "enc_path": "/app/storage/encfiles/6912974998/1792864041_bot_py.enc",
+          "filename": "bot.py",
+          "rel_path": "bot.py"
+        },
+        {
+          "key_id": "1OwzKwGSvTYVFmMDVn2b7Q",
+          "enc_path": "/app/storage/encfiles/6912974998/1792864041_bot_database_json.enc",
+          "filename": "bot_database.json",
+          "rel_path": "bot_database.json"
+        },
+        {
+          "key_id": "_ggMAc7gBlXGa5jzFt8WEg",
+          "enc_path": "/app/storage/encfiles/6912974998/1792864041_devices_txt.enc",
+          "filename": "devices.txt",
+          "rel_path": "devices.txt"
+        },
+        {
+          "key_id": "PR29DX-OfQ_D68eO33wltw",
+          "enc_path": "/app/storage/encfiles/6912974998/1792864041_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'bot_database.json' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-11-05T04:08:39.341443+00:00",
+      "last_error": "",
+      "last_exit_code": null,
+      "last_exit_at": "2026-11-05T03:48:49.328299+00:00"
+    },
+    "c1fae21b5aea2328": {
+      "_id": "c1fae21b5aea2328",
+      "owner": 6912974998,
+      "name": "gphelp",
+      "dir": "/app/sandbox/6912974998_c1fae21b5aea2328",
+      "created": "2026-10-25T03:38:53.079066+00:00",
+      "enc_files": [
+        {
+          "key_id": "fWStyK62LN8gV8NLrwv7pg",
+          "enc_path": "/app/storage/encfiles/6912974998/1792899533_gphelp_py.enc",
+          "filename": "gphelp.py",
+          "rel_path": "gphelp.py"
+        },
+        {
+          "key_id": "CGshERHq04CwxtJ1xeBUSw",
+          "enc_path": "/app/storage/encfiles/6912974998/1792899533_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "requirements.txt"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'requirements.txt' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-11-05T04:08:41.605644+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "4c2dd98b66b21579": {
+      "_id": "4c2dd98b66b21579",
+      "owner": 6912974998,
+      "name": "cc",
+      "dir": "/app/sandbox/6912974998_4c2dd98b66b21579",
+      "created": "2026-10-27T15:08:40.239994+00:00",
+      "enc_files": [
+        {
+          "key_id": "gNYLlIlfMGCKJW2CPmanwg",
+          "enc_path": "/app/storage/encfiles/6912974998/1793113720_cc_py.enc",
+          "filename": "cc.py",
+          "rel_path": "cc.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-05T04:08:41.657514+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "3b515d7fe5ca1476": {
+      "_id": "3b515d7fe5ca1476",
+      "owner": 5727941919,
+      "name": "bot",
+      "dir": "/app/sandbox/5727941919_3b515d7fe5ca1476",
+      "created": "2026-10-27T17:26:28.843559+00:00",
+      "enc_files": [
+        {
+          "key_id": "D9O7_-I1q2P8QSg1dOvT8A",
+          "enc_path": "/app/storage/encfiles/5727941919/1793121989_bot_py.enc",
+          "filename": "bot.py",
+          "rel_path": "bot.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-05T04:08:41.684018+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "db3e4db1b95ef1e2": {
+      "_id": "db3e4db1b95ef1e2",
+      "owner": 6265842075,
+      "name": "hosting",
+      "dir": "/app/sandbox/6265842075_db3e4db1b95ef1e2",
+      "created": "2026-10-28T01:25:05.606752+00:00",
+      "enc_files": [
+        {
+          "key_id": "FiNrBkJy68Xp34R7Tvy6cQ",
+          "enc_path": "/app/storage/encfiles/6265842075/1793150706_hosting_py.enc",
+          "filename": "hosting.py",
+          "rel_path": "hosting.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-05T04:10:47.716790+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "9736eaec7c18b5fe": {
+      "_id": "9736eaec7c18b5fe",
+      "owner": 6912974998,
+      "name": "main",
+      "dir": "/app/sandbox/6912974998_9736eaec7c18b5fe",
+      "created": "2026-10-28T13:55:20.678518+00:00",
+      "enc_files": [
+        {
+          "key_id": "cEWZvRuvtzEJia7ztxQssQ",
+          "enc_path": "/app/storage/encfiles/6912974998/1793195721_main_py.enc",
+          "filename": "main.py",
+          "rel_path": "main.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "last_started": "2026-11-05T04:08:43.092417+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "f8a95aee127ea33c": {
+      "_id": "f8a95aee127ea33c",
+      "owner": 7864020307,
+      "name": "GroupHelpBot",
+      "dir": "/app/sandbox/7864020307_f8a95aee127ea33c",
+      "created": "2026-10-29T12:49:03.092723+00:00",
+      "enc_files": [
+        {
+          "key_id": "wus9Mg-OEAv3LabEsVmGtg",
+          "enc_path": "/app/storage/encfiles/7864020307/1793278143_GroupHelpBot_GroupHelpBot_py.enc",
+          "filename": "GroupHelpBot.py",
+          "rel_path": "GroupHelpBot/GroupHelpBot.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-05T04:08:43.111073+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    },
+    "e5de28bba5126b8f": {
+      "_id": "e5de28bba5126b8f",
+      "owner": 7864020307,
+      "name": "Final",
+      "dir": "/app/sandbox/7864020307_e5de28bba5126b8f",
+      "created": "2026-10-30T12:51:36.285499+00:00",
+      "enc_files": [
+        {
+          "key_id": "W5XdEsPM18Yi5zr0VopyLA",
+          "enc_path": "/app/storage/encfiles/7864020307/1793364696_Test_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "Test/requirements.txt"
+        },
+        {
+          "key_id": "2NvJNfgj_TpaaOdGxVdSew",
+          "enc_path": "/app/storage/encfiles/7864020307/1793364696_Test_test_py.enc",
+          "filename": "test.py",
+          "rel_path": "Test/test.py"
+        }
+      ],
+      "env": {},
+      "status": "running",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'requirements.txt' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-05T04:08:43.135557+00:00",
+      "last_error": "",
+      "last_exit_code": null
+    }
+  },
+  "payments": [],
+  "admins": {},
+  "audit": [
+    {
+      "ts": "2026-10-20T04:06:43.233421+00:00",
+      "uid": 6912974998,
+      "action": "maintenance_toggle",
+      "detail": "now=on"
+    },
+    {
+      "ts": "2026-10-20T04:06:56.493338+00:00",
+      "uid": 6912974998,
+      "action": "give_plan",
+      "detail": "uid=6912974998 plan=lifetime days=None"
+    },
+    {
+      "ts": "2026-10-20T04:15:26.231983+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=48994759d7771c36"
+    },
+    {
+      "ts": "2026-10-20T04:21:42.249707+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=d6f93068b7979622"
+    },
+    {
+      "ts": "2026-10-20T04:30:24.136678+00:00",
+      "uid": 6912974998,
+      "action": "bot_download",
+      "detail": "bot=f65f2e560875d5e1"
+    },
+    {
+      "ts": "2026-10-20T04:30:26.431584+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=f65f2e560875d5e1"
+    },
+    {
+      "ts": "2026-10-20T04:36:56.574817+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=711e016b12824cb6"
+    },
+    {
+      "ts": "2026-10-21T06:13:40.916465+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=d66375dfe2fcd058"
+    },
+    {
+      "ts": "2026-10-21T17:52:07.048996+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=8fd23359ee3656ae"
+    },
+    {
+      "ts": "2026-10-22T02:11:38.092463+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=471e97413fd9da48"
+    },
+    {
+      "ts": "2026-10-22T07:05:47.660983+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=05c3abe344e4c545"
+    },
+    {
+      "ts": "2026-10-22T07:05:56.601303+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=471e97413fd9da48"
+    },
+    {
+      "ts": "2026-10-24T17:47:41.414213+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=6786a1a8a2b9336b"
+    },
+    {
+      "ts": "2026-10-25T03:38:57.374577+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=0184887833e912e7"
+    },
+    {
+      "ts": "2026-10-25T09:42:10.290750+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=73a7a13837e51d17"
+    },
+    {
+      "ts": "2026-10-25T09:42:22.333882+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=5dd849d093e6ee52"
+    },
+    {
+      "ts": "2026-10-26T05:58:26.611482+00:00",
+      "uid": 6912974998,
+      "action": "pip_install",
+      "detail": "bot=347be4b41cbb280c ok=True"
+    },
+    {
+      "ts": "2026-10-26T05:59:04.105070+00:00",
+      "uid": 6912974998,
+      "action": "pip_install",
+      "detail": "bot=347be4b41cbb280c ok=True"
+    },
+    {
+      "ts": "2026-10-26T05:59:21.174513+00:00",
+      "uid": 6912974998,
+      "action": "pip_install",
+      "detail": "bot=347be4b41cbb280c ok=True"
+    },
+    {
+      "ts": "2026-10-26T06:01:01.670930+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=347be4b41cbb280c"
+    },
+    {
+      "ts": "2026-10-27T17:12:44.861999+00:00",
+      "uid": 6912974998,
+      "action": "maintenance_toggle",
+      "detail": "now=off"
+    },
+    {
+      "ts": "2026-10-27T17:24:11.933982+00:00",
+      "uid": 5727941919,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-27T17:25:16.725656+00:00",
+      "uid": 6912974998,
+      "action": "give_plan",
+      "detail": "uid=5727941919 plan=lifetime days=None"
+    },
+    {
+      "ts": "2026-10-27T17:28:37.967649+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=3b515d7fe5ca1476"
+    },
+    {
+      "ts": "2026-10-27T18:09:38.203306+00:00",
+      "uid": 6912974998,
+      "action": "bot_download",
+      "detail": "bot=4c2dd98b66b21579"
+    },
+    {
+      "ts": "2026-10-28T01:24:40.912653+00:00",
+      "uid": 6265842075,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-28T04:00:00.000268+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=db3e4db1b95ef1e2"
+    },
+    {
+      "ts": "2026-10-28T06:38:53.015470+00:00",
+      "uid": 7864020307,
+      "action": "captcha_pass",
+      "detail": "verified after 0 try(s)"
+    },
+    {
+      "ts": "2026-10-28T06:40:09.956374+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=c9fa72e163e9c37e"
+    },
+    {
+      "ts": "2026-10-28T06:41:45.922763+00:00",
+      "uid": 6912974998,
+      "action": "give_plan",
+      "detail": "uid=7864020307 plan=lifetime days=None"
+    },
+    {
+      "ts": "2026-10-29T08:41:59.312339+00:00",
+      "uid": 6912974998,
+      "action": "security_reject",
+      "detail": "file=bot_enc.py risk=55 verdict=DANGEROUS"
+    },
+    {
+      "ts": "2026-10-29T12:48:38.942367+00:00",
+      "uid": 7864020307,
+      "action": "bot_delall",
+      "detail": "bot=c9fa72e163e9c37e"
+    },
+    {
+      "ts": "2026-10-29T12:50:49.508362+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=f8a95aee127ea33c"
+    },
+    {
+      "ts": "2026-10-30T04:14:47.985080+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=c5ade45e7ed113eb"
+    },
+    {
+      "ts": "2026-10-30T04:22:41.543335+00:00",
+      "uid": 7864020307,
+      "action": "bot_delall",
+      "detail": "bot=c5ade45e7ed113eb"
+    },
+    {
+      "ts": "2026-10-30T04:25:32.391500+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=9219d5d09fbbe5cc"
+    },
+    {
+      "ts": "2026-10-30T12:51:04.073999+00:00",
+      "uid": 7864020307,
+      "action": "bot_delall",
+      "detail": "bot=9219d5d09fbbe5cc"
+    },
+    {
+      "ts": "2026-10-30T17:59:50.232208+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=e5de28bba5126b8f"
+    },
+    {
+      "ts": "2026-11-01T02:23:30.354959+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=1d398d1c003fbcb0"
+    },
+    {
+      "ts": "2026-11-01T02:23:38.197619+00:00",
+      "uid": 6912974998,
+      "action": "bot_download",
+      "detail": "bot=359548f038e0185e"
+    },
+    {
+      "ts": "2026-11-01T02:24:28.333907+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=359548f038e0185e"
+    },
+    {
+      "ts": "2026-11-03T05:09:21.976273+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=5bc210c4bb467660"
+    },
+    {
+      "ts": "2026-11-03T05:12:41.879880+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=3391e7ad559ca372"
+    },
+    {
+      "ts": "2026-11-03T05:15:27.603082+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=b59673a3179257a6"
+    },
+    {
+      "ts": "2026-11-03T05:16:19.384596+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=e2ddca9f4427d70b"
+    },
+    {
+      "ts": "2026-11-03T21:48:16.424883+00:00",
+      "uid": 6912974998,
+      "action": "env_set",
+      "detail": "bot=e1a1615e4384d9e7 key=BOT_TOKEN"
+    },
+    {
+      "ts": "2026-11-03T21:48:36.700649+00:00",
+      "uid": 6912974998,
+      "action": "bot_delall",
+      "detail": "bot=e1a1615e4384d9e7"
+    }
+  ],
+  "coupons": {},
+  "tickets": {},
+  "scheduled_broadcasts": [],
+  "notes": {},
+  "rate_violations": {},
+  "scan_log": [
+    {
+      "ts": "2026-10-20T04:07:06.954601+00:00",
+      "uid": "6912974998",
+      "filename": ".gitignore",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.gitignore' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-20T04:15:31.398293+00:00",
+      "uid": "6912974998",
+      "filename": ".gitignore",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.gitignore' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-20T04:21:52.772423+00:00",
+      "uid": "6912974998",
+      "filename": ".gitignore",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.gitignore' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-20T04:30:33.843293+00:00",
+      "uid": "6912974998",
+      "filename": ".gitignore",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.gitignore' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-20T07:19:06.060905+00:00",
+      "uid": "6912974998",
+      "filename": "requirements.txt",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'requirements.txt' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-21T06:09:04.302842+00:00",
+      "uid": "6912974998",
+      "filename": "main.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-21T17:48:47.169772+00:00",
+      "uid": "6912974998",
+      "filename": "emoji_to_id.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-21T17:51:49.011540+00:00",
+      "uid": "6912974998",
+      "filename": "emoji_to_id.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-21T18:15:29.695253+00:00",
+      "uid": "6912974998",
+      "filename": ".env",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.env' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-22T07:04:51.189828+00:00",
+      "uid": "6912974998",
+      "filename": "code.py",
+      "verdict": "SAFE",
+      "risk_score": 0,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-24T17:35:21.834633+00:00",
+      "uid": "6912974998",
+      "filename": "bot_database.json",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'bot_database.json' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-24T17:47:21.573856+00:00",
+      "uid": "6912974998",
+      "filename": "bot_database.json",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'bot_database.json' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-25T03:36:23.352682+00:00",
+      "uid": "6912974998",
+      "filename": "gphelp.py",
+      "verdict": "SAFE",
+      "risk_score": 25,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-25T03:38:53.388355+00:00",
+      "uid": "6912974998",
+      "filename": "requirements.txt",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'requirements.txt' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-25T09:39:40.602470+00:00",
+      "uid": "6912974998",
+      "filename": "bot_config.json",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'bot_config.json' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-25T10:28:15.477944+00:00",
+      "uid": "6912974998",
+      "filename": "README.md",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'readme.md' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-26T05:57:47.611645+00:00",
+      "uid": "6912974998",
+      "filename": ".dockerignore",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.dockerignore' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-27T15:08:40.557508+00:00",
+      "uid": "6912974998",
+      "filename": "cc.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-27T17:26:29.150611+00:00",
+      "uid": "5727941919",
+      "filename": "bot.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T01:25:06.002568+00:00",
+      "uid": "6265842075",
+      "filename": "hosting.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T06:39:31.446711+00:00",
+      "uid": "7864020307",
+      "filename": "GroupHelpBot.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-28T13:55:20.981620+00:00",
+      "uid": "6912974998",
+      "filename": "main.py",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 10,
+      "summary": "🔍 File suspicious hai. Admin se manual review karwao."
+    },
+    {
+      "ts": "2026-10-29T08:41:56.807391+00:00",
+      "uid": "6912974998",
+      "filename": "bot_enc.py",
+      "verdict": "DANGEROUS",
+      "risk_score": 55,
+      "summary": "⚠️ File DANGEROUS hai! 4 threat(s) mili hain."
+    },
+    {
+      "ts": "2026-10-29T08:45:33.268744+00:00",
+      "uid": "6912974998",
+      "filename": "bot_enc.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-29T12:49:03.401880+00:00",
+      "uid": "7864020307",
+      "filename": "GroupHelpBot.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-10-30T04:14:29.798654+00:00",
+      "uid": "7864020307",
+      "filename": "requirements.txt",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'requirements.txt' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-30T04:25:20.503950+00:00",
+      "uid": "7864020307",
+      "filename": "requirements.txt",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'requirements.txt' allow nahi hai."
+    },
+    {
+      "ts": "2026-10-30T12:51:36.592543+00:00",
+      "uid": "7864020307",
+      "filename": "requirements.txt",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'requirements.txt' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-03T05:05:59.715127+00:00",
+      "uid": "6912974998",
+      "filename": ".env",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.env' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-03T05:09:29.172513+00:00",
+      "uid": "6912974998",
+      "filename": ".env",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.env' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-03T05:12:46.675181+00:00",
+      "uid": "6912974998",
+      "filename": ".env",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.env' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-03T05:15:37.987351+00:00",
+      "uid": "6912974998",
+      "filename": ".env",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.env' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-03T21:47:30.300720+00:00",
+      "uid": "6912974998",
+      "filename": ".env",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type '.env' allow nahi hai."
+    }
+  ]
+}
