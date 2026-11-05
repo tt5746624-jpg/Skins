@@ -85,7 +85,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-26T09:43:18.899707+00:00",
-      "last_seen": "2026-11-05T04:10:46.062291+00:00",
+      "last_seen": "2026-11-05T04:18:36.766892+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -100,7 +100,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 1,
-        "logins": 21
+        "logins": 22
       }
     }
   },
@@ -284,14 +284,15 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "stopped",
       "cron": {},
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
       "last_started": "2026-11-05T04:10:47.716790+00:00",
-      "last_error": "",
-      "last_exit_code": null
+      "last_error": "    result = await request.post(\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/opt/venv/lib/python3.11/site-packages/telegram/request/_baserequest.py\", line 198, in post\n    result = await self._request_wrapper(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/venv/lib/python3.11/site-packages/telegram/request/_baserequest.py\", line 375, in _request_wrapper\n    raise exception\ntelegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running",
+      "last_exit_code": -15,
+      "last_exit_at": "2026-11-05T04:18:37.618233+00:00"
     },
     "9736eaec7c18b5fe": {
       "_id": "9736eaec7c18b5fe",
