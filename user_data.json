@@ -7,7 +7,7 @@
       "plan": "lifetime",
       "plan_expires": "2126-09-26T04:06:56.019222+00:00",
       "joined": "2026-10-20T04:06:33.337336+00:00",
-      "last_seen": "2026-11-05T13:07:04.455974+00:00",
+      "last_seen": "2026-11-07T00:47:13.598979+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -21,8 +21,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 26,
-        "logins": 256
+        "bots_uploaded": 27,
+        "logins": 264
       },
       "last_expiry_warn": -1
     },
@@ -397,6 +397,82 @@
       "last_started": "2026-11-05T22:09:31.639129+00:00",
       "last_error": "",
       "last_exit_code": null
+    },
+    "7ef46a8142000c02": {
+      "_id": "7ef46a8142000c02",
+      "owner": 6912974998,
+      "name": "upass",
+      "dir": "/app/sandbox/6912974998_7ef46a8142000c02",
+      "created": "2026-11-07T00:46:35.612579+00:00",
+      "enc_files": [
+        {
+          "key_id": "ovQcoWWJY8shq6Bd6gCiUw",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012396_mlbb_telegram_bot_README_md.enc",
+          "filename": "README.md",
+          "rel_path": "mlbb_telegram_bot/README.md"
+        },
+        {
+          "key_id": "HFlMENODcSXsl_5dekwkyA",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012397_mlbb_telegram_bot_data_devices_txt.enc",
+          "filename": "devices.txt",
+          "rel_path": "mlbb_telegram_bot/data/devices.txt"
+        },
+        {
+          "key_id": "B__c9Qdx9CZGvqb5kWqYJA",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012398_mlbb_telegram_bot_data_proxies_txt.enc",
+          "filename": "proxies.txt",
+          "rel_path": "mlbb_telegram_bot/data/proxies.txt"
+        },
+        {
+          "key_id": "zYHcYRaGHYF0S5BJdfjPyA",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012399_mlbb_telegram_bot_requirements_txt.enc",
+          "filename": "requirements.txt",
+          "rel_path": "mlbb_telegram_bot/requirements.txt"
+        },
+        {
+          "key_id": "1UmbYCuUcL0wb6dJFGj4bQ",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012400_mlbb_telegram_bot_run_py.enc",
+          "filename": "run.py",
+          "rel_path": "mlbb_telegram_bot/run.py"
+        },
+        {
+          "key_id": "yriM4-mMUhzuy8JpXz4njw",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012400_mlbb_telegram_bot_src_bot_py.enc",
+          "filename": "bot.py",
+          "rel_path": "mlbb_telegram_bot/src/bot.py"
+        },
+        {
+          "key_id": "zCAKLqAUccIEUwlzKDt-Rg",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012401_mlbb_telegram_bot_src_checker_py.enc",
+          "filename": "checker.py",
+          "rel_path": "mlbb_telegram_bot/src/checker.py"
+        },
+        {
+          "key_id": "2phEhVfLGNEczzGkyREJgw",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012402_mlbb_telegram_bot_src_config_py.enc",
+          "filename": "config.py",
+          "rel_path": "mlbb_telegram_bot/src/config.py"
+        },
+        {
+          "key_id": "LgP3iR9Vq-3aKwMz8zTKkQ",
+          "enc_path": "/app/storage/encfiles/6912974998/1794012403_mlbb_telegram_bot_src_info_py.enc",
+          "filename": "info.py",
+          "rel_path": "mlbb_telegram_bot/src/info.py"
+        }
+      ],
+      "env": {},
+      "status": "crashed",
+      "cron": {},
+      "security_scan": {
+        "verdict": "SUSPICIOUS",
+        "risk_score": 30,
+        "summary": "File type 'readme.md' allow nahi hai."
+      },
+      "gh_synced_at": 0,
+      "last_started": "2026-11-07T00:47:13.946829+00:00",
+      "last_error": "════════════════ START 2026-11-07T00:47:13.919026+00:00 ════════════════\n  File \"/app/sandbox/6912974998_7ef46a8142000c02/mlbb_telegram_bot/src/bot.py\", line 189\n    f\"❌ <b>Error checking account</b>\n    ^\nSyntaxError: unterminated string literal (detected at line 189)",
+      "last_exit_code": 1,
+      "last_exit_at": "2026-11-07T00:47:13.955777+00:00"
     }
   },
   "payments": [],
@@ -1008,6 +1084,14 @@
       "verdict": "SAFE",
       "risk_score": 20,
       "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
+    },
+    {
+      "ts": "2026-11-07T00:46:35.954296+00:00",
+      "uid": "6912974998",
+      "filename": "README.md",
+      "verdict": "SUSPICIOUS",
+      "risk_score": 30,
+      "summary": "File type 'readme.md' allow nahi hai."
     }
   ]
 }
