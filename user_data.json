@@ -85,7 +85,7 @@
       "plan": "free",
       "plan_expires": null,
       "joined": "2026-10-26T09:43:18.899707+00:00",
-      "last_seen": "2026-11-08T08:22:39.225438+00:00",
+      "last_seen": "2026-11-09T12:03:42.630415+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -99,8 +99,8 @@
       "bot_slots_bonus": 0,
       "stats": {
         "commands": 0,
-        "bots_uploaded": 3,
-        "logins": 35
+        "bots_uploaded": 4,
+        "logins": 53
       }
     }
   },
@@ -350,54 +350,6 @@
       "last_error": "",
       "last_exit_code": null
     },
-    "cbf15b9361dff84c": {
-      "_id": "cbf15b9361dff84c",
-      "owner": 6265842075,
-      "name": "Premium_Hosting_source",
-      "dir": "/app/sandbox/6265842075_cbf15b9361dff84c",
-      "created": "2026-11-05T11:26:46.667776+00:00",
-      "enc_files": [
-        {
-          "key_id": "G54gBB5_MXtaPRlca_XhuQ",
-          "enc_path": "/app/storage/encfiles/6265842075/1793878007_Premium_Hosting_source_py.enc",
-          "filename": "Premium_Hosting_source.py",
-          "rel_path": "Premium_Hosting_source.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "approved",
-      "approval_reason": "",
-      "last_started": "2026-11-09T04:13:16.341335+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
-    "6bdc19eec2464789": {
-      "_id": "6bdc19eec2464789",
-      "owner": 6265842075,
-      "name": "5_6230865702354427838",
-      "dir": "/app/sandbox/6265842075_6bdc19eec2464789",
-      "created": "2026-11-05T11:28:19.212984+00:00",
-      "enc_files": [
-        {
-          "key_id": "zFQLJEQwIwqRojM4D-qANg",
-          "enc_path": "/app/storage/encfiles/6265842075/1793878099_5_6230865702354427838_py.enc",
-          "filename": "5_6230865702354427838.py",
-          "rel_path": "5_6230865702354427838.py"
-        }
-      ],
-      "env": {},
-      "status": "running",
-      "cron": {},
-      "gh_synced_at": 0,
-      "approval_status": "approved",
-      "approval_reason": "",
-      "last_started": "2026-11-09T04:13:16.783177+00:00",
-      "last_error": "",
-      "last_exit_code": null
-    },
     "14fdfee8da4d9456": {
       "_id": "14fdfee8da4d9456",
       "owner": 6912974998,
@@ -473,6 +425,26 @@
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-11-07T01:05:49.436376+00:00"
+    },
+    "71de428e085ab3a7": {
+      "_id": "71de428e085ab3a7",
+      "owner": 6265842075,
+      "name": "5_6230865702354427838",
+      "dir": "/app/sandbox/6265842075_71de428e085ab3a7",
+      "created": "2026-11-09T12:03:43.674283+00:00",
+      "enc_files": [
+        {
+          "key_id": "ON-eO0kGsVNK-bEXKN8Mvg",
+          "enc_path": "/app/storage/encfiles/6265842075/1794225824_5_6230865702354427838_py.enc",
+          "filename": "5_6230865702354427838.py",
+          "rel_path": "5_6230865702354427838.py"
+        }
+      ],
+      "env": {},
+      "status": "pending_approval",
+      "cron": {},
+      "gh_synced_at": 0,
+      "approval_status": "pending"
     }
   },
   "payments": [],
@@ -801,6 +773,18 @@
       "uid": 6912974998,
       "action": "pip_install",
       "detail": "bot=14fdfee8da4d9456 ok=True"
+    },
+    {
+      "ts": "2026-11-09T12:03:12.753794+00:00",
+      "uid": 6265842075,
+      "action": "bot_delete",
+      "detail": "bot=cbf15b9361dff84c"
+    },
+    {
+      "ts": "2026-11-09T12:03:19.835055+00:00",
+      "uid": 6265842075,
+      "action": "bot_delete",
+      "detail": "bot=6bdc19eec2464789"
     }
   ],
   "coupons": {},
@@ -1112,6 +1096,14 @@
       "verdict": "SUSPICIOUS",
       "risk_score": 30,
       "summary": "File type 'readme.md' allow nahi hai."
+    },
+    {
+      "ts": "2026-11-09T12:03:44.073034+00:00",
+      "uid": "6265842075",
+      "filename": "5_6230865702354427838.py",
+      "verdict": "SAFE",
+      "risk_score": 20,
+      "summary": "✅ File safe lagti hai. Koi major threat nahi mila."
     }
   ]
 }
