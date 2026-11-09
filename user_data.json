@@ -140,7 +140,7 @@
         "summary": "File type 'requirements.txt' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-08T04:11:58.359130+00:00",
+      "last_started": "2026-11-09T04:13:10.860699+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -177,7 +177,7 @@
         }
       ],
       "env": {},
-      "status": "running",
+      "status": "crashed",
       "cron": {},
       "security_scan": {
         "verdict": "SUSPICIOUS",
@@ -186,9 +186,9 @@
       },
       "gh_synced_at": 0,
       "last_started": "2026-11-09T01:27:27.674713+00:00",
-      "last_error": "",
-      "last_exit_code": null,
-      "last_exit_at": "2026-11-09T01:27:15.450473+00:00"
+      "last_error": "Downloading yarl-1.25.1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (117 kB)\n   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 117.7/117.7 kB 389.1 MB/s eta 0:00:00\nInstalling collected packages: zstandard, urllib3, typing_extensions, pycryptodome, propcache, multidict, idna, frozenlist, colorama, charset_normalizer, certifi, attrs, aiohappyeyeballs, yarl, requests, aiosignal, aiohttp, pyTelegramBotAPI\nSuccessfully installed aiohappyeyeballs-2.7.1 aiohttp-3.14.5 aiosignal-1.4.0 attrs-26.1.0 certifi-2026.10.23 charset_normalizer-3.5.2 colorama-0.4.6 frozenlist-1.8.0 idna-3.20 multidict-7.2.1 propcache-0.5.4 pyTelegramBotAPI-4.37.1 pycryptodome-4.4.0 requests-2.34.2 typing_extensions-4.16.0 urllib3-2.8.0 yarl-1.25.1 zstandard-0.25.0\nERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\ngoogle-genai 2.34.0 requires pydantic<3.0.0,>=2.12.5, but you have pydantic 2.11.10 which is incompatible.\n[✓] requirements.txt done (rc=0)\nXoni Boost Telegram Bot (English + Admin Panel) is running...",
+      "last_exit_code": -9,
+      "last_exit_at": "2026-11-09T04:13:03.358892+00:00"
     },
     "c1fae21b5aea2328": {
       "_id": "c1fae21b5aea2328",
@@ -219,7 +219,7 @@
         "summary": "File type 'requirements.txt' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-08T04:12:08.815598+00:00",
+      "last_started": "2026-11-09T04:13:14.981708+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -241,7 +241,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-08T04:12:08.982448+00:00",
+      "last_started": "2026-11-09T04:13:15.258719+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -265,7 +265,7 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-11-08T04:12:09.119382+00:00",
+      "last_started": "2026-11-09T04:13:15.441626+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -287,7 +287,7 @@
       "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "last_started": "2026-11-08T04:12:09.266218+00:00",
+      "last_started": "2026-11-09T04:13:15.583202+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -311,7 +311,7 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-11-08T04:12:09.413083+00:00",
+      "last_started": "2026-11-09T04:13:15.760318+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -346,7 +346,7 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-11-08T04:12:09.672353+00:00",
+      "last_started": "2026-11-09T04:13:16.044732+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -370,7 +370,7 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-11-08T04:12:09.843813+00:00",
+      "last_started": "2026-11-09T04:13:16.341335+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -394,7 +394,7 @@
       "gh_synced_at": 0,
       "approval_status": "approved",
       "approval_reason": "",
-      "last_started": "2026-11-08T04:12:10.060777+00:00",
+      "last_started": "2026-11-09T04:13:16.783177+00:00",
       "last_error": "",
       "last_exit_code": null
     },
@@ -469,7 +469,7 @@
         "summary": "File type 'readme.md' allow nahi hai."
       },
       "gh_synced_at": 0,
-      "last_started": "2026-11-08T04:12:13.557128+00:00",
+      "last_started": "2026-11-09T04:13:21.953690+00:00",
       "last_error": "",
       "last_exit_code": null,
       "last_exit_at": "2026-11-07T01:05:49.436376+00:00"
