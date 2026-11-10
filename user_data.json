@@ -7,7 +7,7 @@
       "plan": "lifetime",
       "plan_expires": "2126-09-26T04:06:56.019222+00:00",
       "joined": "2026-10-20T04:06:33.337336+00:00",
-      "last_seen": "2026-11-07T01:06:00.756812+00:00",
+      "last_seen": "2026-11-10T02:51:17.010252+00:00",
       "banned": false,
       "ban_reason": "",
       "wallet": 0,
@@ -22,7 +22,7 @@
       "stats": {
         "commands": 0,
         "bots_uploaded": 28,
-        "logins": 277
+        "logins": 278
       },
       "last_expiry_warn": -1
     },
@@ -441,10 +441,14 @@
         }
       ],
       "env": {},
-      "status": "pending_approval",
+      "status": "running",
       "cron": {},
       "gh_synced_at": 0,
-      "approval_status": "pending"
+      "approval_status": "approved",
+      "approval_reason": "",
+      "last_started": "2026-11-10T02:51:17.596967+00:00",
+      "last_error": "",
+      "last_exit_code": null
     }
   },
   "payments": [],
@@ -785,6 +789,12 @@
       "uid": 6265842075,
       "action": "bot_delete",
       "detail": "bot=6bdc19eec2464789"
+    },
+    {
+      "ts": "2026-11-10T02:51:17.015875+00:00",
+      "uid": 6912974998,
+      "action": "approve_bot",
+      "detail": "bot=71de428e085ab3a7"
     }
   ],
   "coupons": {},
